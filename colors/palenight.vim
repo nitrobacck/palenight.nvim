@@ -1,5 +1,5 @@
 if version > 580
-  hi clear
+  higlight clear
   if exists("syntax_on")
     syntax reset
   endif
