@@ -1,0 +1,10 @@
+{
+  "name": "palenight",
+  "version": "2.0.0",
+  "repository": "git@github.com:palenight-community/palenight.git",
+  "author": "palenight-community",
+  "license": "MIT",
+  "vim": {
+    "opt": true
+  }
+}
