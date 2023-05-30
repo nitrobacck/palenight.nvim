@@ -1,7 +1,7 @@
 # **palenight.nvim**
 A beutiful neovim colorsheme based off
 The well-known schemes
-- [palenight]
+- [palenight.vim]
 - [gruvbox]
 
 ![screenshot]
@@ -27,6 +27,6 @@ require('lazy').setup({
 Plug 'nitrobacck/palenight.nvim'
 ```
 
-[palenight]: https://www.github.com/drewtempelmeyer/palenight.vim
+[palenight.vim]: https://www.github.com/drewtempelmeyer/palenight.vim
 [gruvbox]: https://www.github.com/gruvbox-community/gruvbox
 [screenshot]: images/palenight.png
